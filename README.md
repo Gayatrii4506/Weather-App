@@ -53,7 +53,7 @@ const apiKey = 'YOUR_API_KEY';
 
 
 Demo:
-[Weather App}( https://gayatrii4506.github.io/Weather-App/)
+[Weather App]( https://gayatrii4506.github.io/Weather-App/)
 
 
 📜 License
