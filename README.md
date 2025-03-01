@@ -47,6 +47,7 @@ Add your API key in the JavaScript file:
 const apiKey = 'YOUR_API_KEY';
 
 📸 Screenshots
+
 ![Screenshot Description](images/ss.png)
 
 
