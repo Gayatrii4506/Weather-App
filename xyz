@@ -1,0 +1,11 @@
+<th style="width: 22%">location</th>
+<th style="width: 22%">name</th>
+<th style="width: 22%">region</th>
+<th style="width: 22%">country</th>
+<th style="width: 22%">lat</th>
+<th style="width: 22%">lon</th>
+<th style="width: 22%">tz_id</th>
+<th style="width: 22%">localtime_epoch</th>
+<th style="width: 22%">localtime</th>
+<th style="width: 22%">alerts</th>
+<th style="width: 22%">alert</th>
