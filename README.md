@@ -34,8 +34,11 @@ javascript
 Copy
 Edit
 const apiKey = 'YOUR_API_KEY';
+
 📸 Screenshots
+
 ![Screenshot Description](images/ss.png)
+
 🌐 Demo
 [Weather App](https://gayatrii4506.github.io/Weather-App/)
 
