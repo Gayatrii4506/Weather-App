@@ -47,6 +47,7 @@ Add your API key in the JavaScript file:
 const apiKey = 'YOUR_API_KEY';
 
 📸 Screenshots
+![Screenshot Description](images/ss.png)
 
 
 
@@ -60,5 +61,6 @@ Feel free to contribute by submitting a pull request or reporting issues.
 
 📬 Contact
 
-For any inquiries, reach out at your-email@example.com.
+For any inquiries, reach out at gayatriduse4506@gmail.com
+
 
